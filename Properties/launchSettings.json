@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SaaSProductsImport": {
+      "commandName": "Project",
+      "commandLineArgs": "\"import\" \"softwareadvice\" \"D:\\Code\\SaaSProductsImport\\feed-products/softwareadvice.json\""
+    }
+  }
+}
